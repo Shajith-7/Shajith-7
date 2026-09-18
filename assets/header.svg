@@ -2,38 +2,45 @@
   <defs>
     <!-- Gradients -->
     <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ebcd95" />
-      <stop offset="50%" stop-color="#eed5a5" />
-      <stop offset="100%" stop-color="#f1deb5" />
+      <stop offset="0%" stop-color="#ffd700" />
+      <stop offset="50%" stop-color="#f5c518" />
+      <stop offset="100%" stop-color="#e5b80b" />
     </linearGradient>
     
-    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="red-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#dc2626" />
+      <stop offset="50%" stop-color="#990000" />
+      <stop offset="100%" stop-color="#7a0010" />
+    </linearGradient>
+
+    <linearGradient id="text-gold" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ffffff" />
-      <stop offset="40%" stop-color="#f6eed5" />
-      <stop offset="80%" stop-color="#ebcd95" />
-      <stop offset="100%" stop-color="#eed5a5" />
+      <stop offset="35%" stop-color="#fff2b2" />
+      <stop offset="70%" stop-color="#ffd700" />
+      <stop offset="100%" stop-color="#f5c518" />
     </linearGradient>
 
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#181614" />
-      <stop offset="50%" stop-color="#1c1a17" />
-      <stop offset="100%" stop-color="#141210" />
+      <stop offset="0%" stop-color="#1e0c10" />
+      <stop offset="50%" stop-color="#14070a" />
+      <stop offset="100%" stop-color="#0d0406" />
     </linearGradient>
 
     <linearGradient id="pill-border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ebcd95" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#eed5a5" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#ebcd95" stop-opacity="0.8"/>
+      <stop offset="0%" stop-color="#ffd700" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#dc2626" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ffd700" stop-opacity="0.9"/>
     </linearGradient>
 
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ebcd95" stop-opacity="0.15" />
-      <stop offset="100%" stop-color="#ebcd95" stop-opacity="0" />
+    <radialGradient id="red-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.25" />
+      <stop offset="60%" stop-color="#ffd700" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#14070a" stop-opacity="0" />
     </radialGradient>
 
     <!-- Filters -->
     <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.5"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.6"/>
     </filter>
   </defs>
 
@@ -43,14 +50,14 @@
       font-size: 34px;
       font-weight: 800;
       letter-spacing: 4px;
-      fill: url(#text-grad);
+      fill: url(#text-gold);
     }
     .subtitle {
       font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
       font-size: 13px;
       font-weight: 600;
       letter-spacing: 3px;
-      fill: #eed5a5;
+      fill: #ffd700;
       text-transform: uppercase;
     }
     .accent-tag {
@@ -58,11 +65,11 @@
       font-size: 11px;
       font-weight: 700;
       letter-spacing: 2px;
-      fill: #f1deb5;
+      fill: #fff2b2;
       text-transform: uppercase;
     }
     .grid-pattern {
-      opacity: 0.04;
+      opacity: 0.05;
     }
   </style>
 
@@ -70,13 +77,16 @@
   <rect width="800" height="200" rx="16" fill="url(#bg-grad)" filter="url(#shadow)"/>
   
   <!-- Outer Border -->
-  <rect x="2" y="2" width="796" height="196" rx="14" fill="none" stroke="url(#gold-grad)" stroke-width="1.5" stroke-opacity="0.4"/>
+  <rect x="2" y="2" width="796" height="196" rx="14" fill="none" stroke="url(#gold-grad)" stroke-width="1.5" stroke-opacity="0.6"/>
+  
+  <!-- Inner Red Accent Line -->
+  <rect x="6" y="6" width="788" height="188" rx="10" fill="none" stroke="url(#red-grad)" stroke-width="1" stroke-opacity="0.4"/>
 
   <!-- Ambient Glow -->
-  <circle cx="400" cy="100" r="250" fill="url(#glow)" />
+  <circle cx="400" cy="100" r="260" fill="url(#red-glow)" />
 
   <!-- Background Decorative Grid -->
-  <g class="grid-pattern" stroke="#ebcd95" stroke-width="1">
+  <g class="grid-pattern" stroke="#ffd700" stroke-width="1">
     <line x1="0" y1="40" x2="800" y2="40" />
     <line x1="0" y1="80" x2="800" y2="80" />
     <line x1="0" y1="120" x2="800" y2="120" />
@@ -89,17 +99,17 @@
 
   <!-- Corner Geometric Accents -->
   <!-- Top Left -->
-  <path d="M 25 25 L 45 25 M 25 25 L 25 45" stroke="#ebcd95" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 25 25 L 45 25 M 25 25 L 25 45" stroke="#ffd700" stroke-width="2" stroke-linecap="round"/>
   <!-- Top Right -->
-  <path d="M 775 25 L 755 25 M 775 25 L 775 45" stroke="#ebcd95" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 775 25 L 755 25 M 775 25 L 775 45" stroke="#ffd700" stroke-width="2" stroke-linecap="round"/>
   <!-- Bottom Left -->
-  <path d="M 25 175 L 45 175 M 25 175 L 25 155" stroke="#ebcd95" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 25 175 L 45 175 M 25 175 L 25 155" stroke="#ffd700" stroke-width="2" stroke-linecap="round"/>
   <!-- Bottom Right -->
-  <path d="M 775 175 L 755 175 M 775 175 L 775 155" stroke="#ebcd95" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 775 175 L 755 175 M 775 175 L 775 155" stroke="#ffd700" stroke-width="2" stroke-linecap="round"/>
 
   <!-- Top Pill Badge -->
   <g transform="translate(300, 32)">
-    <rect x="0" y="0" width="200" height="24" rx="12" fill="#ebcd95" fill-opacity="0.1" stroke="url(#pill-border)" stroke-width="1"/>
+    <rect x="0" y="0" width="200" height="24" rx="12" fill="#7a0010" fill-opacity="0.6" stroke="url(#pill-border)" stroke-width="1"/>
     <text x="100" y="16" text-anchor="middle" class="accent-tag">✦ PORTFOLIO PROFILE ✦</text>
   </g>
 
@@ -108,9 +118,9 @@
 
   <!-- Decorative Divider Line in Header -->
   <g transform="translate(250, 118)">
-    <line x1="0" y1="0" x2="130" y2="0" stroke="url(#gold-grad)" stroke-width="1.5" stroke-opacity="0.6"/>
-    <polygon points="150,-4 158,0 150,4 142,0" fill="#ebcd95"/>
-    <line x1="170" y1="0" x2="300" y2="0" stroke="url(#gold-grad)" stroke-width="1.5" stroke-opacity="0.6"/>
+    <line x1="0" y1="0" x2="130" y2="0" stroke="url(#gold-grad)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="150,-4 158,0 150,4 142,0" fill="#dc2626"/>
+    <line x1="170" y1="0" x2="300" y2="0" stroke="url(#gold-grad)" stroke-width="1.5" stroke-opacity="0.8"/>
   </g>
 
   <!-- Subtitle Roles -->

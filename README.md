@@ -7,26 +7,26 @@
 
   <!-- Dynamic Typing Animation -->
   <a href="https://github.com/Shajith-7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EBCD95&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Shajith+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Data+Scientist+%F0%9F%93%8A;Vibe+Coder+%E2%9A%A1;Building+Practical+AI+%26+Web+Solutions+%F0%9F%A4%96" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Shajith+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Data+Scientist+%F0%9F%93%8A;Vibe+Coder+%E2%9A%A1;Building+Practical+AI+%26+Web+Solutions+%F0%9F%A4%96" alt="Typing Animation" />
   </a>
 
   <br/><br/>
 
   <!-- Social Badges -->
   <a href="https://github.com/Shajith-7">
-    <img src="https://img.shields.io/badge/GitHub-1c1a17?style=for-the-badge&logo=github&logoColor=ebcd95&labelColor=2d261e" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-1e0c10?style=for-the-badge&logo=github&logoColor=ffd700&labelColor=7a0010" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jailani-shajith-a48421263/">
-    <img src="https://img.shields.io/badge/LinkedIn-1c1a17?style=for-the-badge&logo=linkedin&logoColor=ebcd95&labelColor=2d261e" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-1e0c10?style=for-the-badge&logo=linkedin&logoColor=ffd700&labelColor=7a0010" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:shajithjailani056@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1c1a17?style=for-the-badge&logo=gmail&logoColor=ebcd95&labelColor=2d261e" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-1e0c10?style=for-the-badge&logo=gmail&logoColor=ffd700&labelColor=7a0010" alt="Email" />
   </a>
   &nbsp;
   <a href="https://medium.com/@shajith07">
-    <img src="https://img.shields.io/badge/Medium-1c1a17?style=for-the-badge&logo=medium&logoColor=ebcd95&labelColor=2d261e" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-1e0c10?style=for-the-badge&logo=medium&logoColor=ffd700&labelColor=7a0010" alt="Medium" />
   </a>
 
   <br/><br/>
@@ -74,59 +74,59 @@
 
 ### 🌐 Web Development
 <p>
-  <img src="https://img.shields.io/badge/HTML5-1c1a17?style=for-the-badge&logo=html5&logoColor=ebcd95&labelColor=2d261e" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1c1a17?style=for-the-badge&logo=css3&logoColor=ebcd95&labelColor=2d261e" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-1c1a17?style=for-the-badge&logo=javascript&logoColor=ebcd95&labelColor=2d261e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React.js-1c1a17?style=for-the-badge&logo=react&logoColor=ebcd95&labelColor=2d261e" alt="React.js" />
-  <img src="https://img.shields.io/badge/Node.js-1c1a17?style=for-the-badge&logo=nodedotjs&logoColor=ebcd95&labelColor=2d261e" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-1e0c10?style=for-the-badge&logo=html5&logoColor=ffd700&labelColor=7a0010" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1e0c10?style=for-the-badge&logo=css3&logoColor=ffd700&labelColor=7a0010" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-1e0c10?style=for-the-badge&logo=javascript&logoColor=ffd700&labelColor=7a0010" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React.js-1e0c10?style=for-the-badge&logo=react&logoColor=ffd700&labelColor=7a0010" alt="React.js" />
+  <img src="https://img.shields.io/badge/Node.js-1e0c10?style=for-the-badge&logo=nodedotjs&logoColor=ffd700&labelColor=7a0010" alt="Node.js" />
 </p>
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-1c1a17?style=for-the-badge&logo=python&logoColor=ebcd95&labelColor=2d261e" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-1c1a17?style=for-the-badge&logo=postgresql&logoColor=ebcd95&labelColor=2d261e" alt="SQL" />
-  <img src="https://img.shields.io/badge/R-1c1a17?style=for-the-badge&logo=r&logoColor=ebcd95&labelColor=2d261e" alt="R" />
+  <img src="https://img.shields.io/badge/Python-1e0c10?style=for-the-badge&logo=python&logoColor=ffd700&labelColor=7a0010" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-1e0c10?style=for-the-badge&logo=postgresql&logoColor=ffd700&labelColor=7a0010" alt="SQL" />
+  <img src="https://img.shields.io/badge/R-1e0c10?style=for-the-badge&logo=r&logoColor=ffd700&labelColor=7a0010" alt="R" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server_(SSMS)-1c1a17?style=for-the-badge&logo=microsoftsqlserver&logoColor=ebcd95&labelColor=2d261e" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1c1a17?style=for-the-badge&logo=postgresql&logoColor=ebcd95&labelColor=2d261e" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/NoSQL_(MongoDB)-1c1a17?style=for-the-badge&logo=mongodb&logoColor=ebcd95&labelColor=2d261e" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL_Server_(SSMS)-1e0c10?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffd700&labelColor=7a0010" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1e0c10?style=for-the-badge&logo=postgresql&logoColor=ffd700&labelColor=7a0010" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/NoSQL_(MongoDB)-1e0c10?style=for-the-badge&logo=mongodb&logoColor=ffd700&labelColor=7a0010" alt="MongoDB" />
 </p>
 
 ### 📊 Data Visualization
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-1c1a17?style=for-the-badge&logo=powerbi&logoColor=ebcd95&labelColor=2d261e" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-1c1a17?style=for-the-badge&logo=microsoftexcel&logoColor=ebcd95&labelColor=2d261e" alt="Excel" />
-  <img src="https://img.shields.io/badge/Grafana-1c1a17?style=for-the-badge&logo=grafana&logoColor=ebcd95&labelColor=2d261e" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Power_BI-1e0c10?style=for-the-badge&logo=powerbi&logoColor=ffd700&labelColor=7a0010" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-1e0c10?style=for-the-badge&logo=microsoftexcel&logoColor=ffd700&labelColor=7a0010" alt="Excel" />
+  <img src="https://img.shields.io/badge/Grafana-1e0c10?style=for-the-badge&logo=grafana&logoColor=ffd700&labelColor=7a0010" alt="Grafana" />
 </p>
 
 ### 🔬 Libraries & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Pandas-1c1a17?style=for-the-badge&logo=pandas&logoColor=ebcd95&labelColor=2d261e" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-1c1a17?style=for-the-badge&logo=numpy&logoColor=ebcd95&labelColor=2d261e" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-1c1a17?style=for-the-badge&logo=scikitlearn&logoColor=ebcd95&labelColor=2d261e" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-1c1a17?style=for-the-badge&logo=python&logoColor=ebcd95&labelColor=2d261e" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-1c1a17?style=for-the-badge&logo=python&logoColor=ebcd95&labelColor=2d261e" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Pandas-1e0c10?style=for-the-badge&logo=pandas&logoColor=ffd700&labelColor=7a0010" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-1e0c10?style=for-the-badge&logo=numpy&logoColor=ffd700&labelColor=7a0010" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-1e0c10?style=for-the-badge&logo=scikitlearn&logoColor=ffd700&labelColor=7a0010" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-1e0c10?style=for-the-badge&logo=python&logoColor=ffd700&labelColor=7a0010" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-1e0c10?style=for-the-badge&logo=python&logoColor=ffd700&labelColor=7a0010" alt="Seaborn" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Git-1c1a17?style=for-the-badge&logo=git&logoColor=ebcd95&labelColor=2d261e" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-1c1a17?style=for-the-badge&logo=github&logoColor=ebcd95&labelColor=2d261e" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-1c1a17?style=for-the-badge&logo=jupyter&logoColor=ebcd95&labelColor=2d261e" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/VS_Code-1c1a17?style=for-the-badge&logo=visualstudiocode&logoColor=ebcd95&labelColor=2d261e" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Google_Colab-1c1a17?style=for-the-badge&logo=googlecolab&logoColor=ebcd95&labelColor=2d261e" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Git-1e0c10?style=for-the-badge&logo=git&logoColor=ffd700&labelColor=7a0010" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1e0c10?style=for-the-badge&logo=github&logoColor=ffd700&labelColor=7a0010" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-1e0c10?style=for-the-badge&logo=jupyter&logoColor=ffd700&labelColor=7a0010" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/VS_Code-1e0c10?style=for-the-badge&logo=visualstudiocode&logoColor=ffd700&labelColor=7a0010" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google_Colab-1e0c10?style=for-the-badge&logo=googlecolab&logoColor=ffd700&labelColor=7a0010" alt="Google Colab" />
 </p>
 
 ### 💡 Core Concepts
 <p>
-  <img src="https://img.shields.io/badge/Vibe_Coding-1c1a17?style=for-the-badge&logoColor=ebcd95&labelColor=2d261e" alt="Vibe Coding" />
-  <img src="https://img.shields.io/badge/Data_Analysis-1c1a17?style=for-the-badge&logoColor=ebcd95&labelColor=2d261e" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/Statistics-1c1a17?style=for-the-badge&logo=chartdotjs&logoColor=ebcd95&labelColor=2d261e" alt="Statistics" />
-  <img src="https://img.shields.io/badge/Machine_Learning-1c1a17?style=for-the-badge&logo=scikitlearn&logoColor=ebcd95&labelColor=2d261e" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-1c1a17?style=for-the-badge&logo=openai&logoColor=ebcd95&labelColor=2d261e" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Vibe_Coding-1e0c10?style=for-the-badge&logoColor=ffd700&labelColor=7a0010" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/Data_Analysis-1e0c10?style=for-the-badge&logoColor=ffd700&labelColor=7a0010" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Statistics-1e0c10?style=for-the-badge&logo=chartdotjs&logoColor=ffd700&labelColor=7a0010" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Machine_Learning-1e0c10?style=for-the-badge&logo=scikitlearn&logoColor=ffd700&labelColor=7a0010" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-1e0c10?style=for-the-badge&logo=openai&logoColor=ffd700&labelColor=7a0010" alt="Artificial Intelligence" />
 </p>
 
 <br/>
@@ -144,8 +144,8 @@
     <td width="50%" valign="top">
       <h3 align="center">☄️ Real-Time Asteroid Monitoring System</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-ebcd95?style=flat-square&logo=python&logoColor=1c1a17" alt="Python" />
-        <img src="https://img.shields.io/badge/NASA_NeoWs_API-eed5a5?style=flat-square&logo=nasa&logoColor=1c1a17" alt="NASA API" />
+        <img src="https://img.shields.io/badge/Python-dc2626?style=flat-square&logo=python&logoColor=ffd700" alt="Python" />
+        <img src="https://img.shields.io/badge/NASA_NeoWs_API-7a0010?style=flat-square&logo=nasa&logoColor=ffd700" alt="NASA API" />
       </p>
       <p>Engineered a real-time tracking system using NASA's NeoWs API to process velocity, diameter, and distance data.</p>
       <ul>
@@ -157,8 +157,8 @@
     <td width="50%" valign="top">
       <h3 align="center">🎓 Sentiment Analysis on College Life</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/R-ebcd95?style=flat-square&logo=r&logoColor=1c1a17" alt="R" />
-        <img src="https://img.shields.io/badge/Sentiment_Libraries-eed5a5?style=flat-square&logo=rstudio&logoColor=1c1a17" alt="Sentiment Libraries" />
+        <img src="https://img.shields.io/badge/R-dc2626?style=flat-square&logo=r&logoColor=ffd700" alt="R" />
+        <img src="https://img.shields.io/badge/Sentiment_Libraries-7a0010?style=flat-square&logo=rstudio&logoColor=ffd700" alt="Sentiment Libraries" />
       </p>
       <p>Applied tokenization and text preprocessing to classify student survey feedback into sentiment categories.</p>
       <ul>
@@ -172,9 +172,9 @@
     <td width="50%" valign="top">
       <h3 align="center">🚀 Exploratory Data Analysis on ISRO Missions</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-ebcd95?style=flat-square&logo=python&logoColor=1c1a17" alt="Python" />
-        <img src="https://img.shields.io/badge/Pandas-eed5a5?style=flat-square&logo=pandas&logoColor=1c1a17" alt="Pandas" />
-        <img src="https://img.shields.io/badge/Seaborn-f1deb5?style=flat-square&logo=python&logoColor=1c1a17" alt="Seaborn" />
+        <img src="https://img.shields.io/badge/Python-dc2626?style=flat-square&logo=python&logoColor=ffd700" alt="Python" />
+        <img src="https://img.shields.io/badge/Pandas-7a0010?style=flat-square&logo=pandas&logoColor=ffd700" alt="Pandas" />
+        <img src="https://img.shields.io/badge/Seaborn-990000?style=flat-square&logo=python&logoColor=ffd700" alt="Seaborn" />
       </p>
       <p>Cleaned and analyzed extensive ISRO mission datasets to identify historical trends in launch vehicles and orbit types.</p>
       <ul>
@@ -186,8 +186,8 @@
     <td width="50%" valign="top">
       <h3 align="center">📈 Power BI Dashboards</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Power_BI-ebcd95?style=flat-square&logo=powerbi&logoColor=1c1a17" alt="Power BI" />
-        <img src="https://img.shields.io/badge/SQL-eed5a5?style=flat-square&logo=postgresql&logoColor=1c1a17" alt="SQL" />
+        <img src="https://img.shields.io/badge/Power_BI-dc2626?style=flat-square&logo=powerbi&logoColor=ffd700" alt="Power BI" />
+        <img src="https://img.shields.io/badge/SQL-7a0010?style=flat-square&logo=postgresql&logoColor=ffd700" alt="SQL" />
       </p>
       <p>Designed interactive dashboards using SQL and Power BI to analyze and report on cross-domain datasets.</p>
       <ul>
@@ -201,9 +201,9 @@
     <td width="50%" valign="top">
       <h3 align="center">🏫 Web Development for Local Schools</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React.js-ebcd95?style=flat-square&logo=react&logoColor=1c1a17" alt="React.js" />
-        <img src="https://img.shields.io/badge/Next.js-eed5a5?style=flat-square&logo=nextdotjs&logoColor=1c1a17" alt="Next.js" />
-        <img src="https://img.shields.io/badge/CSS3-f1deb5?style=flat-square&logo=css3&logoColor=1c1a17" alt="CSS" />
+        <img src="https://img.shields.io/badge/React.js-dc2626?style=flat-square&logo=react&logoColor=ffd700" alt="React.js" />
+        <img src="https://img.shields.io/badge/Next.js-7a0010?style=flat-square&logo=nextdotjs&logoColor=ffd700" alt="Next.js" />
+        <img src="https://img.shields.io/badge/CSS3-990000?style=flat-square&logo=css3&logoColor=ffd700" alt="CSS" />
       </p>
       <p>Designed and developed responsive, modern websites for local educational institutions to establish and enhance their digital presence.</p>
       <ul>
@@ -215,10 +215,10 @@
     <td width="50%" valign="top">
       <h3 align="center">💼 Personal Portfolio Website</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-ebcd95?style=flat-square&logo=html5&logoColor=1c1a17" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS3-eed5a5?style=flat-square&logo=css3&logoColor=1c1a17" alt="CSS" />
-        <img src="https://img.shields.io/badge/JavaScript-f1deb5?style=flat-square&logo=javascript&logoColor=1c1a17" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/React.js-f3e6c5?style=flat-square&logo=react&logoColor=1c1a17" alt="React" />
+        <img src="https://img.shields.io/badge/HTML5-dc2626?style=flat-square&logo=html5&logoColor=ffd700" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS3-7a0010?style=flat-square&logo=css3&logoColor=ffd700" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-990000?style=flat-square&logo=javascript&logoColor=ffd700" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/React.js-b91c1c?style=flat-square&logo=react&logoColor=ffd700" alt="React" />
       </p>
       <p>Built a dynamic and highly responsive personal portfolio to showcase technical projects, skills, and professional experience.</p>
       <ul>
@@ -241,15 +241,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shajith-7&show_icons=true&title_color=ebcd95&text_color=f1deb5&icon_color=eed5a5&border_color=ebcd95&bg_color=1c1a17" alt="Shajith-7 GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shajith-7&show_icons=true&title_color=ffd700&text_color=fff2b2&icon_color=dc2626&border_color=ffd700&bg_color=1e0c10" alt="Shajith-7 GitHub Stats" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shajith-7&layout=compact&title_color=ebcd95&text_color=f1deb5&icon_color=eed5a5&border_color=ebcd95&bg_color=1c1a17" alt="Shajith-7 Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shajith-7&layout=compact&title_color=ffd700&text_color=fff2b2&icon_color=dc2626&border_color=ffd700&bg_color=1e0c10" alt="Shajith-7 Top Languages" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shajith-7&theme=dark&background=1c1a17&border=ebcd95&stroke=ebcd95&ring=eed5a5&fire=ebcd95&currStreakNum=f1deb5&sideNums=f1deb5&currStreakLabel=eed5a5&sideLabels=eed5a5&dates=eed5a5" alt="GitHub Streak Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shajith-7&theme=dark&background=1e0c10&border=ffd700&stroke=ffd700&ring=dc2626&fire=ffd700&currStreakNum=fff2b2&sideNums=fff2b2&currStreakLabel=ffd700&sideLabels=ffd700&dates=ffd700" alt="GitHub Streak Stats" height="170" />
 </div>
 
 <br/>
