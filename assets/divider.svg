@@ -1,0 +1,23 @@
+<svg fill="none" width="800" height="30" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="div-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ebcd95" stop-opacity="0" />
+      <stop offset="20%" stop-color="#ebcd95" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#eed5a5" stop-opacity="1" />
+      <stop offset="80%" stop-color="#ebcd95" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#ebcd95" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(0, 15)">
+    <!-- Main line -->
+    <line x1="100" y1="0" x2="380" y2="0" stroke="url(#div-grad)" stroke-width="1.5" />
+    
+    <!-- Central Motif -->
+    <circle cx="400" cy="0" r="4" fill="#ebcd95" />
+    <polygon points="400,-7 407,0 400,7 393,0" fill="none" stroke="#eed5a5" stroke-width="1" />
+    
+    <!-- Main line right -->
+    <line x1="420" y1="0" x2="700" y2="0" stroke="url(#div-grad)" stroke-width="1.5" />
+  </g>
+</svg>
