@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shajith-7/Shajith-7/main/assets/header.svg" width="100%" alt="Jailani Shajith M Header" />
+  <img src="https://raw.githubusercontent.com/Shajith-7/Shajith-7/main/assets/banner.svg" width="100%" alt="Jailani Shajith M Header" />
 </p>
 
 <p align="center">
