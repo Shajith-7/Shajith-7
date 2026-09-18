@@ -1,23 +1,23 @@
 <svg fill="none" width="850" height="30" viewBox="0 0 850 30" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="div-red" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff2e55" stop-opacity="0" />
-      <stop offset="25%" stop-color="#ff2e55" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="1" />
-      <stop offset="75%" stop-color="#ff2e55" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#ff2e55" stop-opacity="0" />
+    <linearGradient id="div-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0" />
+      <stop offset="25%" stop-color="#f59e0b" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1" />
+      <stop offset="75%" stop-color="#f59e0b" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0" />
     </linearGradient>
   </defs>
 
   <g transform="translate(0, 15)">
     <!-- Main line -->
-    <line x1="80" y1="0" x2="400" y2="0" stroke="url(#div-red)" stroke-width="1.5" />
+    <line x1="80" y1="0" x2="400" y2="0" stroke="url(#div-glow)" stroke-width="1.5" />
     
     <!-- Central Motif -->
-    <circle cx="425" cy="0" r="4.5" fill="#ff2e55" />
-    <polygon points="425,-7 432,0 425,7 418,0" fill="none" stroke="#ffffff" stroke-width="1.5" />
+    <circle cx="425" cy="0" r="4.5" fill="#38bdf8" />
+    <polygon points="425,-7 432,0 425,7 418,0" fill="none" stroke="#fbbf24" stroke-width="1.5" />
     
     <!-- Main line right -->
-    <line x1="450" y1="0" x2="770" y2="0" stroke="url(#div-red)" stroke-width="1.5" />
+    <line x1="450" y1="0" x2="770" y2="0" stroke="url(#div-glow)" stroke-width="1.5" />
   </g>
 </svg>

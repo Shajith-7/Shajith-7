@@ -1,120 +1,136 @@
-<svg fill="none" width="850" height="220" viewBox="0 0 850 220" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="850" height="230" viewBox="0 0 850 230" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Background Gradient -->
-    <linearGradient id="bg-glow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#180407" />
-      <stop offset="50%" stop-color="#0d0204" />
-      <stop offset="100%" stop-color="#1a0508" />
+    <linearGradient id="obsidian-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#090d16" />
     </linearGradient>
 
-    <!-- Neon Glow Filter for Title -->
-    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur1" />
-      <feGaussianBlur stdDeviation="15" result="blur2" />
+    <!-- Gold Metallic Gradient -->
+    <linearGradient id="gold-metallic" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="35%" stop-color="#fbbf24" />
+      <stop offset="70%" stop-color="#fef08a" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+
+    <!-- Text Fill Gradient -->
+    <linearGradient id="text-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#fef08a" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+
+    <!-- Soft Glow Filter -->
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
       <feMerge>
-        <feMergeNode in="blur2" />
-        <feMergeNode in="blur1" />
+        <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
-
-    <!-- Red Border Gradient -->
-    <linearGradient id="border-red" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff2e55" />
-      <stop offset="50%" stop-color="#990000" />
-      <stop offset="100%" stop-color="#ff2e55" />
-    </linearGradient>
-
-    <!-- Pill Border Gradient -->
-    <linearGradient id="pill-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff2e55" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#e11d48" stop-opacity="0.8" />
-    </linearGradient>
   </defs>
 
   <style>
-    .glow-title {
+    .name-title {
       font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Montserrat', Roboto, sans-serif;
       font-size: 38px;
       font-weight: 900;
       letter-spacing: 5px;
-      fill: #ffffff;
+      fill: url(#text-light);
     }
-    .subtitle-text {
+    .role-subtitle {
       font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 700;
-      letter-spacing: 4px;
-      fill: #ff2e55;
+      letter-spacing: 4.5px;
+      fill: #38bdf8;
       text-transform: uppercase;
     }
-    .pill-text {
+    .tag-badge {
       font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
       font-size: 11px;
       font-weight: 800;
-      letter-spacing: 2.5px;
-      fill: #ff85a1;
+      letter-spacing: 3px;
+      fill: #fbbf24;
       text-transform: uppercase;
     }
-    .bottom-tag {
+    .mono-tag {
       font-family: 'Fira Code', 'Courier New', monospace;
       font-size: 12px;
-      font-weight: 700;
-      letter-spacing: 3px;
-      fill: #e2e8f0;
+      font-weight: 600;
+      letter-spacing: 2px;
+      fill: #94a3b8;
     }
-    .grid-lines {
-      opacity: 0.08;
+    .grid-mesh {
+      opacity: 0.05;
     }
   </style>
 
-  <!-- Container Box -->
-  <rect width="850" height="220" rx="20" fill="url(#bg-glow)" stroke="url(#border-red)" stroke-width="2" />
+  <!-- Base Container -->
+  <rect width="850" height="230" rx="20" fill="url(#obsidian-bg)" stroke="url(#border-glow)" stroke-width="2" />
 
-  <!-- Ambient Center Red Halo Glow -->
-  <circle cx="425" cy="110" r="180" fill="#ff1a40" fill-opacity="0.18" filter="url(#neon-glow)" />
+  <!-- Ambient Radial Lighting Glow -->
+  <circle cx="425" cy="115" r="220" fill="#f59e0b" fill-opacity="0.12" filter="url(#soft-glow)" />
+  <circle cx="425" cy="115" r="140" fill="#38bdf8" fill-opacity="0.08" filter="url(#soft-glow)" />
 
-  <!-- Cyberpunk Grid Overlay -->
-  <g class="grid-lines" stroke="#ff2e55" stroke-width="1">
-    <line x1="0" y1="44" x2="850" y2="44" />
-    <line x1="0" y1="88" x2="850" y2="88" />
-    <line x1="0" y1="132" x2="850" y2="132" />
-    <line x1="0" y1="176" x2="850" y2="176" />
-    <line x1="170" y1="0" x2="170" y2="220" />
-    <line x1="340" y1="0" x2="340" y2="220" />
-    <line x1="510" y1="0" x2="510" y2="220" />
-    <line x1="680" y1="0" x2="680" y2="220" />
+  <!-- Background Decorative Grid -->
+  <g class="grid-mesh" stroke="#fbbf24" stroke-width="1">
+    <line x1="0" y1="46" x2="850" y2="46" />
+    <line x1="0" y1="92" x2="850" y2="92" />
+    <line x1="0" y1="138" x2="850" y2="138" />
+    <line x1="0" y1="184" x2="850" y2="184" />
+    <line x1="170" y1="0" x2="170" y2="230" />
+    <line x1="340" y1="0" x2="340" y2="230" />
+    <line x1="510" y1="0" x2="510" y2="230" />
+    <line x1="680" y1="0" x2="680" y2="230" />
   </g>
 
-  <!-- Corner Brackets (Exact Match to Image 1) -->
-  <!-- Top Left Bracket -->
-  <path d="M 24 45 L 24 24 L 45 24" stroke="#ff2e55" stroke-width="3.5" fill="none" stroke-linecap="square" />
-  <!-- Top Right Bracket -->
-  <path d="M 826 45 L 826 24 L 805 24" stroke="#ff2e55" stroke-width="3.5" fill="none" stroke-linecap="square" />
-  <!-- Bottom Left Bracket -->
-  <path d="M 24 175 L 24 196 L 45 196" stroke="#ff2e55" stroke-width="3.5" fill="none" stroke-linecap="square" />
-  <!-- Bottom Right Bracket -->
-  <path d="M 826 175 L 826 196 L 805 196" stroke="#ff2e55" stroke-width="3.5" fill="none" stroke-linecap="square" />
+  <!-- Modern Geometric Edge Accents -->
+  <!-- Left Accent Lines -->
+  <path d="M 30 30 L 60 30 M 30 30 L 30 60" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="30" cy="30" r="3" fill="#38bdf8"/>
 
-  <!-- Top Centered Pill Tag -->
-  <g transform="translate(305, 26)">
-    <rect x="0" y="0" width="240" height="26" rx="13" fill="#300810" stroke="url(#pill-grad)" stroke-width="1.5" />
-    <circle cx="20" cy="13" r="4" fill="#ff2e55" />
-    <text x="130" y="17" text-anchor="middle" class="pill-text">BUILDING REAL-WORLD TECH</text>
+  <!-- Right Accent Lines -->
+  <path d="M 820 30 L 790 30 M 820 30 L 820 60" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="820" cy="30" r="3" fill="#38bdf8"/>
+
+  <!-- Bottom Left Accent Lines -->
+  <path d="M 30 200 L 60 200 M 30 200 L 30 170" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="30" cy="200" r="3" fill="#38bdf8"/>
+
+  <!-- Bottom Right Accent Lines -->
+  <path d="M 820 200 L 790 200 M 820 200 L 820 170" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="820" cy="200" r="3" fill="#38bdf8"/>
+
+  <!-- Top Pill Tag -->
+  <g transform="translate(265, 28)">
+    <rect x="0" y="0" width="320" height="28" rx="14" fill="#1e293b" stroke="url(#gold-metallic)" stroke-width="1.5" />
+    <circle cx="22" cy="14" r="4" fill="#38bdf8" />
+    <text x="170" y="18" text-anchor="middle" class="tag-badge">✦ WEB • DATA • AI SOFTWARE ✦</text>
   </g>
 
-  <!-- Main Title (Glowing White & Neon Red Halo) -->
-  <!-- Underglow Layer -->
-  <text x="425" y="108" text-anchor="middle" class="glow-title" fill="#ff2e55" filter="url(#neon-glow)" opacity="0.9">JAILANI SHAJITH M</text>
-  <!-- Sharp Foreground Layer -->
-  <text x="425" y="108" text-anchor="middle" class="glow-title">JAILANI SHAJITH M</text>
+  <!-- Main Title -->
+  <text x="425" y="114" text-anchor="middle" class="name-title" filter="url(#soft-glow)">JAILANI SHAJITH M</text>
 
-  <!-- Subtitle Roles with Red Accent Diamond -->
-  <text x="425" y="148" text-anchor="middle" class="subtitle-text">WEB DEVELOPER &nbsp;•&nbsp; DATA SCIENTIST &nbsp;•&nbsp; VIBE CODER</text>
-  
-  <!-- Central Diamond Accent -->
-  <polygon points="425,158 429,163 425,168 421,163" fill="#ff2e55" />
+  <!-- Subtitle Roles -->
+  <text x="425" y="156" text-anchor="middle" class="role-subtitle">WEB DEVELOPER &nbsp;•&nbsp; DATA SCIENTIST &nbsp;•&nbsp; VIBE CODER</text>
 
-  <!-- Bottom Tagline -->
-  <text x="425" y="192" text-anchor="middle" class="bottom-tag">&lt;/&gt; BUILDING PRACTICAL AI &amp; WEB SOLUTIONS</text>
+  <!-- Decorative Divider Bar -->
+  <g transform="translate(280, 172)">
+    <line x1="0" y1="0" x2="120" y2="0" stroke="url(#gold-metallic)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="145,-4 153,0 145,4 137,0" fill="#38bdf8"/>
+    <line x1="170" y1="0" x2="290" y2="0" stroke="url(#gold-metallic)" stroke-width="1.5" stroke-opacity="0.8"/>
+  </g>
+
+  <!-- Bottom Monospace Quote -->
+  <text x="425" y="204" text-anchor="middle" class="mono-tag">BUILDING PRACTICAL SOFTWARE &amp; DATA-DRIVEN INSIGHTS</text>
 </svg>

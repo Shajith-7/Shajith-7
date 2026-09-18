@@ -1,18 +1,18 @@
 <svg fill="none" width="850" height="120" viewBox="0 0 850 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="ft-border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff2e55" />
-      <stop offset="50%" stop-color="#990000" />
-      <stop offset="100%" stop-color="#ff2e55" />
+    <linearGradient id="ft-gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#fbbf24" />
     </linearGradient>
 
     <linearGradient id="ft-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#180407" />
-      <stop offset="100%" stop-color="#0d0204" />
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="100%" stop-color="#0f172a" />
     </linearGradient>
 
-    <filter id="ft-glow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#ff2e55" flood-opacity="0.3"/>
+    <filter id="ft-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.6"/>
     </filter>
   </defs>
 
@@ -22,7 +22,7 @@
       font-size: 14px;
       font-style: italic;
       font-weight: 500;
-      fill: #ffffff;
+      fill: #f8fafc;
       letter-spacing: 1px;
     }
     .brand-text {
@@ -30,17 +30,17 @@
       font-size: 12px;
       font-weight: 700;
       letter-spacing: 3px;
-      fill: #ff2e55;
+      fill: #fbbf24;
       text-transform: uppercase;
     }
   </style>
 
-  <!-- Background Container -->
-  <rect width="850" height="120" rx="14" fill="url(#ft-bg)" stroke="url(#ft-border)" stroke-width="1.5" filter="url(#ft-glow)"/>
+  <!-- Background -->
+  <rect width="850" height="120" rx="14" fill="url(#ft-bg)" stroke="url(#ft-gold)" stroke-width="1.5" filter="url(#ft-shadow)"/>
 
   <!-- Top Line -->
-  <line x1="220" y1="28" x2="630" y2="28" stroke="url(#ft-border)" stroke-width="1" stroke-opacity="0.6" />
-  <circle cx="425" cy="28" r="3.5" fill="#ff2e55"/>
+  <line x1="220" y1="28" x2="630" y2="28" stroke="url(#ft-gold)" stroke-width="1" stroke-opacity="0.6" />
+  <circle cx="425" cy="28" r="3.5" fill="#38bdf8"/>
 
   <!-- Quote -->
   <text x="425" y="62" text-anchor="middle" class="quote-text">"Transforming data and ideas into functional, impactful software."</text>
