@@ -28,20 +28,11 @@
       <stop offset="50%" stop-color="#fef08a" />
       <stop offset="100%" stop-color="#fbbf24" />
     </linearGradient>
-
-    <!-- Soft Glow Filter -->
-    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
   </defs>
 
   <style>
     .name-title {
-      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Montserrat', Roboto, sans-serif;
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
       font-size: 38px;
       font-weight: 900;
       letter-spacing: 5px;
@@ -77,10 +68,6 @@
 
   <!-- Base Container -->
   <rect width="850" height="230" rx="20" fill="url(#obsidian-bg)" stroke="url(#border-glow)" stroke-width="2" />
-
-  <!-- Ambient Radial Lighting Glow -->
-  <circle cx="425" cy="115" r="220" fill="#f59e0b" fill-opacity="0.12" filter="url(#soft-glow)" />
-  <circle cx="425" cy="115" r="140" fill="#38bdf8" fill-opacity="0.08" filter="url(#soft-glow)" />
 
   <!-- Background Decorative Grid -->
   <g class="grid-mesh" stroke="#fbbf24" stroke-width="1">
@@ -119,7 +106,7 @@
   </g>
 
   <!-- Main Title -->
-  <text x="425" y="114" text-anchor="middle" class="name-title" filter="url(#soft-glow)">JAILANI SHAJITH M</text>
+  <text x="425" y="114" text-anchor="middle" class="name-title">JAILANI SHAJITH M</text>
 
   <!-- Subtitle Roles -->
   <text x="425" y="156" text-anchor="middle" class="role-subtitle">WEB DEVELOPER &nbsp;•&nbsp; DATA SCIENTIST &nbsp;•&nbsp; VIBE CODER</text>

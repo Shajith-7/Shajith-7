@@ -1,18 +1,14 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shajith-7/Shajith-7/main/assets/header.svg" width="100%" alt="Jailani Shajith M Header" />
+</p>
 
-  <!-- Obsidian Gold Header Banner -->
-  <img src="https://raw.githubusercontent.com/Shajith-7/Shajith-7/main/assets/header.svg" alt="Jailani Shajith M Banner" width="100%" />
-
-  <br/><br/>
-
-  <!-- Dynamic Typing Animation -->
+<p align="center">
   <a href="https://github.com/Shajith-7">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F59E0B&background=00000000&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi+there!+I'm+Shajith+%F0%9F%91%8B;Web+Developer+%26+Data+Scientist+%F0%9F%93%8A;Vibe+Coder+%26+AI+Explorer+%E2%9A%A1;Building+Practical+AI+%26+Web+Solutions+%F0%9F%A4%96" width="100%" style="max-width: 650px;" alt="Typing SVG" />
   </a>
+</p>
 
-  <br/><br/>
-
-  <!-- Obsidian Gold Social Badges -->
+<p align="center">
   <a href="https://github.com/Shajith-7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-f59e0b?style=for-the-badge&logo=github&logoColor=000000&labelColor=0f172a" alt="GitHub" />
   </a>
@@ -28,18 +24,15 @@
   <a href="https://medium.com/@shajith07" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Read-38bdf8?style=for-the-badge&logo=medium&logoColor=000000&labelColor=0f172a" alt="Medium" />
   </a>
+</p>
 
-  <br/><br/>
-
-  <!-- Profile Views Counter -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shajith-7&label=PROFILE%20VIEWS&color=f59e0b&style=for-the-badge" alt="Profile Views" />
+</p>
 
-  <br/><br/>
-
-  <!-- Divider -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/Shajith-7/Shajith-7/main/assets/divider.svg" alt="Divider" width="100%" />
-
-</div>
+</p>
 
 <br/>
 
@@ -89,9 +82,9 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Shajith-7/Shajith-7/main/assets/divider.svg" alt="Divider" width="100%" />
-</div>
+</p>
 
 <br/>
 
@@ -165,9 +158,9 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Shajith-7/Shajith-7/main/assets/divider.svg" alt="Divider" width="100%" />
-</div>
+</p>
 
 <br/>
 
@@ -266,31 +259,9 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Shajith-7/Shajith-7/main/assets/divider.svg" alt="Divider" width="100%" />
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics & Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shajith-7&show_icons=true&title_color=fbbf24&text_color=f8fafc&icon_color=38bdf8&border_color=f59e0b&bg_color=0f172a" alt="Shajith-7 GitHub Stats" height="175" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shajith-7&layout=compact&title_color=fbbf24&text_color=f8fafc&icon_color=38bdf8&border_color=f59e0b&bg_color=0f172a" alt="Shajith-7 Top Languages" height="175" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shajith-7&theme=dark&background=0f172a&border=f59e0b&stroke=f59e0b&ring=38bdf8&fire=f59e0b&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=fbbf24&sideLabels=fbbf24&dates=fbbf24" alt="GitHub Streak Stats" height="175" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shajith-7/Shajith-7/main/assets/divider.svg" alt="Divider" width="100%" />
-</div>
+</p>
 
 <br/>
 
